@@ -1,0 +1,43 @@
+dependencies: \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Optional.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/CPortability.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Traits.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Utility.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/lang/Exception.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/CppAttributes.h

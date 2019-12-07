@@ -1,0 +1,32 @@
+dependencies: \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairUtilities.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

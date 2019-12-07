@@ -1,0 +1,47 @@
+dependencies: \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h

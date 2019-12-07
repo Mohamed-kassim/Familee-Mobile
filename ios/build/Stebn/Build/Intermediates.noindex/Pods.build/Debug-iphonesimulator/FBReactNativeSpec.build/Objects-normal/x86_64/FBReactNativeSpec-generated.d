@@ -1,0 +1,35 @@
+dependencies: \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Volumes/MacData/Work/Private/Stebn/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Optional.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/CPortability.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Traits.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/Utility.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/lang/Exception.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Folly/folly/CppAttributes.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h

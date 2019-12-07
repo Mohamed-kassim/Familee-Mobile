@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988876787296",
+    "firebase_url": "https://stebn1-bb136.firebaseio.com",
+    "project_id": "stebn1-bb136",
+    "storage_bucket": "stebn1-bb136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988876787296:android:1d8bcb17f19945b44e3d05",
+        "android_client_info": {
+          "package_name": "com.stebn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988876787296-mremkrrjad9rj1dee62v4ectmm3j6p6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv8SZuYGjaoo7zXm8J9Gi80SNY5Phn8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988876787296-mremkrrjad9rj1dee62v4ectmm3j6p6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

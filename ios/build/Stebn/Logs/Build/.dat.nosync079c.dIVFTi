@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>91C5E3E4-1AFE-4CCC-8A10-0FF611E863AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91C5E3E4-1AFE-4CCC-8A10-0FF611E863AE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stebn project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stebn</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596591198.76613104</real>
+			<key>timeStoppedRecording</key>
+			<real>596591462.38268602</real>
+			<key>title</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>91C5E3E4-1AFE-4CCC-8A10-0FF611E863AE</string>
+		</dict>
+		<key>D8D953C1-6CBB-4B9A-966E-07C60AADD7F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8D953C1-6CBB-4B9A-966E-07C60AADD7F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stebn project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stebn</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593131030.03445196</real>
+			<key>timeStoppedRecording</key>
+			<real>593131040.24950397</real>
+			<key>title</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D953C1-6CBB-4B9A-966E-07C60AADD7F1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

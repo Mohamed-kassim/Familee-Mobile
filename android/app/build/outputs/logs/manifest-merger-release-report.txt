@@ -1,0 +1,673 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [:@react-native-community_slider] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_async-storage] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_geolocation] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/64c668ddaf28277e88826dfbb876f8fe/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/78aaeb946531f89060fd06ce1ab37d29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/dfbab25a791a7342a8cf12d9822ac18b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/fef4081e021f835c3722effb047a7954/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9bcac2ce053456cec4435396cb1cb149/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6296eb3e1875003ae95cfc47cd63ead2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/61b2235a0792d984f3c223be955a664c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0cbbf5434dbcf0129b546090fb5ceb5d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3e9ffb0b57ba10dd9e1281a8510fe7c4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/d50e6251c44afd8c2c8901c1315550b8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9a515b6f7056761e070b01f9bfb01e56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7166e354817d5482f15d02219cdf1158/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/935bb5bf732f369c1dd79c54f5cc3da8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/eff93519c61cfb488cc1dfb5ea2f6098/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/86ac2d2a81f790a6c6b8aaa3c59a2763/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5b573810e73c225da0138bcecca2eafa/AndroidManifest.xml:17:1-24:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:2:1-52:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/94989f3981a94fcb54cbcc0b08876278/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ad9fe795520c66dfa77b021c5ceeb894/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/2d80844458003a4db3d08140183f6c3d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b98b169e377a5f1471eecec8d1d607/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/24582fd9b8b1e480f9cec8a5573b3e13/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b8f1a57bbe1de25bc4231d330f3291/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c23631312441e6856c6dbf8a83d84dfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ddf196ceefa529cdc0e55f1ff2c61438/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5ee456679934d410e34aa4c46b1a79e9/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/df8114d37a05b08a33aa3f9bbf598159/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0e65d6719cf3928419185581e63b6bd0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/909e5709038947ca5dd2a08513886496/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/04941ec93daa6b29878a0aa258a3a404/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9847242b408ab68130f52c0ee0f9f3a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/40c191151a34437f43cd1b76d65c1067/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6aa8e70d65a0adee89f3858656bf8a7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0ff5d7cd2670231f43dcedb9240eba71/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ffcec2273f96cbab173620b1d3f4cbe0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f2a85713b840fcca84297e07ea11739d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/872e8a47be49418d075670db2913842b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1d7d62bb1cf13b69e608dcd769f66a16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e2547a99a053f658d324b5337670e6b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5aafffd583cda44ecfe3b80c38057fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ca3b6862d8c857d69620dd9b978be911/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5e8ad08c6278aa67b170c66f16aec482/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8589c8cdb4e7ae04bd1f5942c5a63068/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e873688760873e329cb53a1fbe8779fb/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1c8bd5580541ccab6a1a59633e10ba27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c07e17f150c62f1fb1e25a198f719d60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ab5e07792bdd9acb75254df00c1948b4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/771b90d1f7bb299feb1cbc6a370dbec5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ac845bcd3760a741243649172ffe9a46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0f27194bc9071b05982670e9ee3669fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a850febcd916c98cdf6e68db0b319f25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3bed28423288128295f0ab0ebb73b7a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/348c943d778ba76025535c7369ee8ed4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c30a355e7251fcf27306a1a90885d08f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:11:5-50:19
+MERGED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/64c668ddaf28277e88826dfbb876f8fe/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/64c668ddaf28277e88826dfbb876f8fe/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/dfbab25a791a7342a8cf12d9822ac18b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/dfbab25a791a7342a8cf12d9822ac18b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/fef4081e021f835c3722effb047a7954/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/fef4081e021f835c3722effb047a7954/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9bcac2ce053456cec4435396cb1cb149/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9bcac2ce053456cec4435396cb1cb149/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6296eb3e1875003ae95cfc47cd63ead2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6296eb3e1875003ae95cfc47cd63ead2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/61b2235a0792d984f3c223be955a664c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/61b2235a0792d984f3c223be955a664c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0cbbf5434dbcf0129b546090fb5ceb5d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0cbbf5434dbcf0129b546090fb5ceb5d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3e9ffb0b57ba10dd9e1281a8510fe7c4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3e9ffb0b57ba10dd9e1281a8510fe7c4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/d50e6251c44afd8c2c8901c1315550b8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/d50e6251c44afd8c2c8901c1315550b8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9a515b6f7056761e070b01f9bfb01e56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9a515b6f7056761e070b01f9bfb01e56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7166e354817d5482f15d02219cdf1158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7166e354817d5482f15d02219cdf1158/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/935bb5bf732f369c1dd79c54f5cc3da8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/935bb5bf732f369c1dd79c54f5cc3da8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5ee456679934d410e34aa4c46b1a79e9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5ee456679934d410e34aa4c46b1a79e9/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e873688760873e329cb53a1fbe8779fb/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e873688760873e329cb53a1fbe8779fb/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:13:7-39
+	android:launchMode
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:18:7-37
+	android:roundIcon
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:15:7-52
+	android:icon
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:16:7-42
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.stebn.MainActivity
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:30:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:31:9-33:68
+	android:value
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:33:11-66
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:32:11-56
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:43:9-47:19
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:43:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:44:11-46:27
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:45:21-71
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:48:9-104
+	android:name
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml:48:18-101
+uses-sdk
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_slider] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_slider] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/64c668ddaf28277e88826dfbb876f8fe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/64c668ddaf28277e88826dfbb876f8fe/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/78aaeb946531f89060fd06ce1ab37d29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/78aaeb946531f89060fd06ce1ab37d29/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/dfbab25a791a7342a8cf12d9822ac18b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/dfbab25a791a7342a8cf12d9822ac18b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/fef4081e021f835c3722effb047a7954/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/fef4081e021f835c3722effb047a7954/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9bcac2ce053456cec4435396cb1cb149/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9bcac2ce053456cec4435396cb1cb149/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6296eb3e1875003ae95cfc47cd63ead2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6296eb3e1875003ae95cfc47cd63ead2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/61b2235a0792d984f3c223be955a664c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/61b2235a0792d984f3c223be955a664c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0cbbf5434dbcf0129b546090fb5ceb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0cbbf5434dbcf0129b546090fb5ceb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3e9ffb0b57ba10dd9e1281a8510fe7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3e9ffb0b57ba10dd9e1281a8510fe7c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/d50e6251c44afd8c2c8901c1315550b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/d50e6251c44afd8c2c8901c1315550b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9a515b6f7056761e070b01f9bfb01e56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9a515b6f7056761e070b01f9bfb01e56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7166e354817d5482f15d02219cdf1158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7166e354817d5482f15d02219cdf1158/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/935bb5bf732f369c1dd79c54f5cc3da8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/935bb5bf732f369c1dd79c54f5cc3da8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/eff93519c61cfb488cc1dfb5ea2f6098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/eff93519c61cfb488cc1dfb5ea2f6098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/86ac2d2a81f790a6c6b8aaa3c59a2763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/86ac2d2a81f790a6c6b8aaa3c59a2763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5b573810e73c225da0138bcecca2eafa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5b573810e73c225da0138bcecca2eafa/AndroidManifest.xml:20:5-22:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/94989f3981a94fcb54cbcc0b08876278/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/94989f3981a94fcb54cbcc0b08876278/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ad9fe795520c66dfa77b021c5ceeb894/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ad9fe795520c66dfa77b021c5ceeb894/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/2d80844458003a4db3d08140183f6c3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/2d80844458003a4db3d08140183f6c3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b98b169e377a5f1471eecec8d1d607/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b98b169e377a5f1471eecec8d1d607/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/24582fd9b8b1e480f9cec8a5573b3e13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/24582fd9b8b1e480f9cec8a5573b3e13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b8f1a57bbe1de25bc4231d330f3291/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/67b8f1a57bbe1de25bc4231d330f3291/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c23631312441e6856c6dbf8a83d84dfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c23631312441e6856c6dbf8a83d84dfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ddf196ceefa529cdc0e55f1ff2c61438/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ddf196ceefa529cdc0e55f1ff2c61438/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5ee456679934d410e34aa4c46b1a79e9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5ee456679934d410e34aa4c46b1a79e9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/df8114d37a05b08a33aa3f9bbf598159/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/df8114d37a05b08a33aa3f9bbf598159/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0e65d6719cf3928419185581e63b6bd0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0e65d6719cf3928419185581e63b6bd0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/909e5709038947ca5dd2a08513886496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/909e5709038947ca5dd2a08513886496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/04941ec93daa6b29878a0aa258a3a404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/04941ec93daa6b29878a0aa258a3a404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9847242b408ab68130f52c0ee0f9f3a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/9847242b408ab68130f52c0ee0f9f3a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/40c191151a34437f43cd1b76d65c1067/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/40c191151a34437f43cd1b76d65c1067/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6aa8e70d65a0adee89f3858656bf8a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/6aa8e70d65a0adee89f3858656bf8a7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0ff5d7cd2670231f43dcedb9240eba71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0ff5d7cd2670231f43dcedb9240eba71/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ffcec2273f96cbab173620b1d3f4cbe0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ffcec2273f96cbab173620b1d3f4cbe0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f2a85713b840fcca84297e07ea11739d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f2a85713b840fcca84297e07ea11739d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/872e8a47be49418d075670db2913842b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/872e8a47be49418d075670db2913842b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1d7d62bb1cf13b69e608dcd769f66a16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1d7d62bb1cf13b69e608dcd769f66a16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e2547a99a053f658d324b5337670e6b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e2547a99a053f658d324b5337670e6b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5aafffd583cda44ecfe3b80c38057fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5aafffd583cda44ecfe3b80c38057fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ca3b6862d8c857d69620dd9b978be911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ca3b6862d8c857d69620dd9b978be911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c53256a8a6c4f7d1f1fac89e81f2aea8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5e8ad08c6278aa67b170c66f16aec482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/5e8ad08c6278aa67b170c66f16aec482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8589c8cdb4e7ae04bd1f5942c5a63068/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8589c8cdb4e7ae04bd1f5942c5a63068/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e873688760873e329cb53a1fbe8779fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e873688760873e329cb53a1fbe8779fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1c8bd5580541ccab6a1a59633e10ba27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/1c8bd5580541ccab6a1a59633e10ba27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c07e17f150c62f1fb1e25a198f719d60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c07e17f150c62f1fb1e25a198f719d60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ab5e07792bdd9acb75254df00c1948b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ab5e07792bdd9acb75254df00c1948b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/771b90d1f7bb299feb1cbc6a370dbec5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/771b90d1f7bb299feb1cbc6a370dbec5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ac845bcd3760a741243649172ffe9a46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/ac845bcd3760a741243649172ffe9a46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0f27194bc9071b05982670e9ee3669fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/0f27194bc9071b05982670e9ee3669fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a850febcd916c98cdf6e68db0b319f25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a850febcd916c98cdf6e68db0b319f25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3bed28423288128295f0ab0ebb73b7a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/3bed28423288128295f0ab0ebb73b7a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/348c943d778ba76025535c7369ee8ed4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/348c943d778ba76025535c7369ee8ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c30a355e7251fcf27306a1a90885d08f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c30a355e7251fcf27306a1a90885d08f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-78
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/mohamedkassim/Desktop/Ecommerce hack/Family/Family/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/def6e93a0fb29bcb48222698ac5a2747/AndroidManifest.xml:34:13-50
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/639c6919da459dbe1ee71d8b28867ecc/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/c46a3c07738b2f823b7e01f68d00aac8/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/55b6a36180108592fc9e4c6429ebb6bd/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/8371a51e474f8da465e11b6bd006187e/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/7fdc488b19f6e0a6a89f81b32b742806/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/db804e7936c150d5406e8cffc1071a71/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/a5df353b476cd8df3d03dc54973f32a2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/e04d7fa7820518b1cd714ecf25272a30/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/120892da0e331c48a3c841122004a062/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/f0a2056998db157ccb0c349f2a3a1706/AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/mohamedkassim/.gradle/caches/transforms-2/files-2.1/219bf6423c58c31966a7dcc85b78b143/AndroidManifest.xml:50:22-86

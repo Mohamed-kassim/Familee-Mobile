@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D4DA0FAC-FA16-430C-A429-0E46998A0427</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4DA0FAC-FA16-430C-A429-0E46998A0427.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Stebn project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stebn</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593047872.90050197</real>
+			<key>timeStoppedRecording</key>
+			<real>593047874.97735298</real>
+			<key>title</key>
+			<string>Building workspace Stebn with scheme Stebn and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D4DA0FAC-FA16-430C-A429-0E46998A0427</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

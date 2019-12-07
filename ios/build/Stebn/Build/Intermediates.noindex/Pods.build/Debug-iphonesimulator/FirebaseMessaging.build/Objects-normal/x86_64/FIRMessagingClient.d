@@ -1,0 +1,19 @@
+dependencies: \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.m \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID_Private.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicsCommon.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSubRegistrar.h \
+  /Volumes/MacData/Work/Private/Stebn/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.h
