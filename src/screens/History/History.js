@@ -26,53 +26,13 @@ const width = Dimensions.get('window').width;
 export default History = ({navigation}) => {
 const [reports, setReports] = useState([])
 const [userData, setuserData] = useGlobalState('userData')
-const [isLoading, setIsLoading] = useState(true)
+const [isLoading, setIsLoading] = useState(false)
 const BASE_URL = Config.BASE_URL
 console.log('BASE_URL', BASE_URL)
 console.log('userData is ',userData)
 const url = `${BASE_URL}reports`
 
-useEffect(() => {
-  const source = axios.CancelToken.source();
-  setIsLoading(true)
-  const loadData = async () => {
-    try {
 
-      const response = await axios.get(url, {
-        headers: {
-          Authorization: `Bearer ${userData.accessToken}`,
-        },
-        params: {
-          user: userData.user._id
-        },
-
-        cancelToken: source.token
-      });
-      console.log(response)
-      setReports(response.data.data);
-      setIsLoading(false)
-    } catch (error) {
-      console.log(error.response)
-      console.log(error)
-      setIsLoading(false)
-      if (axios.isCancel(error)) {
-        // request cancelled
-      } else {
-        throw error;
-      }
-    }
- 
-  };
-  InteractionManager.runAfterInteractions(() => {
-    loadData()
-  })
-
-  
- 
-  return () => {
-    source.cancel();
-  };
-}, [url]);
 
   const ClearAll = ()=> {
     
